@@ -6,5 +6,5 @@ dark_mode: true
 
 # GitHub Pages configuration
 github_pages:
-  url: "https://<your-github-username>.github.io/<your-repo-name>"
+  url: "https://ahmed.github.io/awesome-chatgpt-prompts"
   branch: "gh-pages"
